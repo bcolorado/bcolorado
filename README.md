@@ -1,13 +1,13 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Bryan Colorado</h1>
-<h3 align="center">📖 A passionate full-stack software developer from Colombia</h3>
+<h3 align="center">👨‍💻 Computer and systems engineer | Full-Stack Software Developer | Tech Problem-Solver</h3>
 
-- 🔭 I’m currently pursuing a degree in **Systems and Computing Engineering at Universidad Nacional de Colombia.**
+- 🔭 **Systems and Computing Engineer at Universidad Nacional de Colombia.**
 
-- 🌱 I’m currently learning **things about software architecture and delving into web development.**
+- 🌱 I specialize in software development/architecture, cloud computing (AWS), and end-to-end web development, both front-end and back-end. I also have a solid grasp of requirements analysis and building scalable solutions.**
 
-- 🤖 At the moment **I am engaged in the study and looking for IT jobs as a developer or similar.**
+- 🤖 My goal is to drive innovation and growth within dynamic engineering teams, blending technical skill with creative problem-solving.
 
 - ⚡ Fun fact **I ❤️ anime and 🏋️**.
 
